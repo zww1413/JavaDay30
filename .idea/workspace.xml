@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df7c408a-7157-4b73-b022-fd241cb8e7ff" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22rqtNsWX3CbIZnalayYXNJZHlv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDBC" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudio\Code\JavaDay30" />
+      <recent name="D:\JavaStudio\Code\JavaDay30\src\day21" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaStudio\Code\JavaDay30\src" />
+      <recent name="D:\JavaStudio\Code\JavaDay30\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HanXinDianBing">
+    <configuration name="BreakContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.BreakContinueTest" />
+      <module name="JavaDay30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HanXinDianBing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HanXinDianBing" />
+      <module name="JavaDay30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HelloWorld" />
+      <module name="JavaDay30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringNewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.StringNewTest" />
+      <module name="JavaDay30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test01" />
+      <module name="JavaDay30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HanXinDianBing" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.StringNewTest" />
+        <item itemvalue="Application.BreakContinueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df7c408a-7157-4b73-b022-fd241cb8e7ff" name="Changes" comment="" />
+      <created>1640606269260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640606269260</updated>
+      <workItem from="1640606270726" duration="147000" />
+      <workItem from="1640606474513" duration="3018000" />
+      <workItem from="1640611439562" duration="156000" />
+      <workItem from="1640611675460" duration="3000" />
+      <workItem from="1640661677430" duration="2626000" />
+      <workItem from="1640664418050" duration="6523000" />
+      <workItem from="1640686908965" duration="689000" />
+      <workItem from="1640687701306" duration="3082000" />
+      <workItem from="1640759631642" duration="5227000" />
+      <workItem from="1641284457691" duration="950000" />
+      <workItem from="1641386888190" duration="84000" />
+      <workItem from="1641386989530" duration="792000" />
+      <workItem from="1641387825819" duration="38000" />
+      <workItem from="1641387902906" duration="1317000" />
+      <workItem from="1641391631566" duration="5179000" />
+      <workItem from="1641398460746" duration="1961000" />
+      <workItem from="1641430437464" duration="11504000" />
+      <workItem from="1641621843107" duration="5149000" />
+      <workItem from="1641631123989" duration="5837000" />
+      <workItem from="1641728173598" duration="111000" />
+      <workItem from="1641733040995" duration="6000" />
+      <workItem from="1641878312560" duration="1116000" />
+      <workItem from="1641881710136" duration="4067000" />
+      <workItem from="1642993534809" duration="602000" />
+      <workItem from="1642994187368" duration="3663000" />
+      <workItem from="1643005119837" duration="7659000" />
+      <workItem from="1643036969591" duration="294000" />
+      <workItem from="1643086141177" duration="4861000" />
+      <workItem from="1643091067751" duration="895000" />
+      <workItem from="1643091994155" duration="3108000" />
+      <workItem from="1643174837158" duration="9899000" />
+      <workItem from="1643197374301" duration="42000" />
+      <workItem from="1647595546594" duration="146000" />
+      <workItem from="1647595709207" duration="336000" />
+      <workItem from="1647596067331" duration="193000" />
+      <workItem from="1647596433117" duration="117000" />
+      <workItem from="1648052380089" duration="632000" />
+      <workItem from="1649470022451" duration="824000" />
+      <workItem from="1649840668359" duration="971000" />
+      <workItem from="1650099833523" duration="807000" />
+      <workItem from="1651070551586" duration="1057000" />
+      <workItem from="1652230424659" duration="215000" />
+      <workItem from="1652230931904" duration="63000" />
+      <workItem from="1652231010118" duration="26000" />
+      <workItem from="1652231871948" duration="2204000" />
+      <workItem from="1652262096403" duration="1187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaDay03$ArrayOperation.ic" NAME="ArrayOperation Coverage Results" MODIFIED="1640670412857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day07.*</FILTER>
+    </SUITE>
+  </component>
+</project>
